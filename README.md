@@ -6,3 +6,5 @@ Denison's scheduling system is very common...we use the Self-Service Banner prov
 While I did write this program, I'm hesitant to post it on Github (as with some other projects) because I don't want someone else to find it and use it without my permission until I graduate...if everyone has this advantage then no one has the advantage. So, if you'd like to see the code feel free to email me. I'd love to talk about it and give a preview...super fun stuff!
 
 bobbylcraig@gmail.com
+
+Progress: Currently Unused But Tested - Apr 2, 2016
