@@ -7,4 +7,4 @@ While I did write this program, I'm hesitant to post it on Github (as with some 
 
 bobbylcraig@gmail.com
 
-Progress: Currently Unused But Tested - Apr 2, 2016
+Progress: It's Been Used And Works! Yay!
