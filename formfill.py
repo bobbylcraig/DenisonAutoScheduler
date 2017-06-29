@@ -12,18 +12,18 @@ mechanize._sockettimeout._GLOBAL_DEFAULT_TIMEOUT = 1
 # Passwords and Pins
 #========================================
 
-student_id = "D01666363"
-pin = "101395"
-alt_pin = "185199"
+student_id = "D********"
+pin = "********"
+alt_pin = "******"
 
 #========================================
 # Classes
 #========================================
 
-crn_1 = "41110"
-crn_2 = "40241"
-crn_3 = "41012"
-crn_4 = "41041"
+crn_1 = "*****"
+crn_2 = "*****"
+crn_3 = "*****"
+crn_4 = "*****"
 # *****
 # Women's Studies - 40719
 # Wicked Problems - 41110
